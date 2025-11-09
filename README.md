@@ -1,4 +1,4 @@
-# LinkedIn Courses - Machine Learning Resources
+# 👨‍💻👩‍💻 LinkedIn Courses - Machine Learning Resources 📖
 
 ## Purpose
 
